@@ -17,6 +17,10 @@ To get started with our To-Do List Manager Web App, follow these steps:
 1. **Create Your First Task:** Simply enter your task and click on the "Add" button.
 1. **Manage Your Tasks:** Use the app to manage your tasks efficiently. Complete tasks when finished, delete unnecessary tasks, and add new tasks as needed.
 
+## Preview
+![to-do list manager image 1](https://github.com/MarGit19/task-manager/assets/134662796/618b2bc2-06e6-47a9-9678-03a8cfaff273)
+
+
 ## Feedback
 
 We value your feedback! If you have any suggestions, feature requests, or encounter any issues while using our app, please don't hesitate to reach out to us. You can contact us via email at martin.uche.dev@gmail.com.
