@@ -18,7 +18,16 @@ To get started with our To-Do List Manager Web App, follow these steps:
 1. **Manage Your Tasks:** Use the app to manage your tasks efficiently. Complete tasks when finished, delete unnecessary tasks, and add new tasks as needed.
 
 ## Preview
-![to-do list manager image 1](https://github.com/MarGit19/task-manager/assets/134662796/618b2bc2-06e6-47a9-9678-03a8cfaff273)
+![to-do list manager homepage](https://github.com/MarGit19/task-manager/assets/134662796/618b2bc2-06e6-47a9-9678-03a8cfaff273)
+- Homepage
+![to-do list manager prompt](https://github.com/MarGit19/task-manager/assets/134662796/5eeba5c5-e84a-47fe-a4b2-f742856197c9)
+- Prompt
+![to-do list manager created items](https://github.com/MarGit19/task-manager/assets/134662796/4ca77319-4808-49df-8b82-a6cf76cd5e4c)
+- Created Tasks
+![to-do list manager completed items](https://github.com/MarGit19/task-manager/assets/134662796/43c874ae-94ef-4248-bfd1-dbbbcf0adc3c)
+- Completed Tasks
+![to-do list manager deleted items](https://github.com/MarGit19/task-manager/assets/134662796/0d5cf87c-7768-4155-83a0-8828437b2e59)
+- Deleted Tasks
 
 
 ## Feedback
