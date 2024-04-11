@@ -1,4 +1,4 @@
-# To-Do List Manager Application [link](https://main--luxury-cassata-5fb346.netlify.app/)
+# JavaScript-To-Do-List-Manager-Application
 Welcome to our To-Do List Manager App! This application helps you organize your tasks efficiently and stay on top of your daily activities. Whether it's for work, school, or personal projects, this app provides you with the tools you need to manage your tasks effectively.
 
 ## Features
